@@ -1,5 +1,7 @@
 # promptscope
 
+> Live API: https://web-production-70461.up.railway.app/docs
+
 CLI + REST API tool to score, analyze, and improve LLM prompts using Claude.
 
 ## Features
